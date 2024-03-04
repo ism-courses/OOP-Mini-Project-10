@@ -1,4 +1,4 @@
-The Boss wants you to Separate classes in your **OOP Mini-Project 9** into 2 modules.
+Your client wants you to Separate classes in your **OOP Mini-Project 9** into 2 modules.
 
 Here are the steps:
 1. Create a main.py file
